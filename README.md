@@ -20,6 +20,3 @@ Score, lives, game-start and game-end screens. In-game menu.
 
 ## Created by
 Josephine Dugger
-
-## Created by
-Nathan Mishler
